@@ -1,0 +1,19 @@
+{
+  "name": "backend_chai_code",
+  "version": "1.0.0",
+  "description": "Learning backend in depth",
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Bhuvana.J",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
